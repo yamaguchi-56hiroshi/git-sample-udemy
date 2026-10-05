@@ -1,0 +1,4 @@
+main()
+{
+    printf("XXXX\n");
+}
