@@ -4,4 +4,5 @@ main()
     printf("XXXX\n");
     // 3
     // 4
+    // 5
 }
